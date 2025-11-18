@@ -1,0 +1,27 @@
+.card-img-top{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+  
+}
+.carousel img{
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.modal-dialog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.modal-content{
+    border-radius: 12px;
+}
+
+.bg{
+    background-color: black;
+
+}
